@@ -10,5 +10,3 @@ computer science ongoing
 
 
 
-i play lol and osu not very well
-
