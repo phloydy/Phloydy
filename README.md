@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Henrique (Phloydy);</h1>
 <h3 align="center">A student in Computer Science in Brazil;</h3>
 
-- 🌱 I’m currently learning **Linux, C, C++ C#, Git/Github**
+- 🌱 I’m currently learning **Linux, C, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
