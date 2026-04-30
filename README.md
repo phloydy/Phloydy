@@ -1,41 +1,45 @@
-<h1 align="center">Hi 👋, I'm Paulo Henrique (Phloydy)</h1>
-<h3 align="center">Computer Science student from Brazil 🇧🇷</h3>
-
+<h1 align="center">Paulo Henrique · phloydy</h1>
 <p align="center">
-  Passionate about technology, cybersecurity and continuous learning.
+  Web Pentester · CTF Player · CS Student · 🇧🇷
 </p>
-
----
-
-### 🚀 About me
-
-- 🎓 Computer Science undergraduate  
-- 🔐 Focused on **Cybersecurity**, especially **Web Pentesting** and **Bug Bounty**
-- 🐧 Linux user (Arch btw)
-- 🌱 Currently studying:
-  - **Linux & Networking**
-  - **C, C++ and Python**
-  - **Web vulnerabilities (OWASP Top 10)**
-  - **Pentest methodologies & tools**
-
----
-
-### 🛠️ Tech & Interests
-
-- 💻 Programming: `C` · `C++` · `Python`
-- 🛡️ Cybersecurity: `Web Pentest` · `APIs` · `Bug Bounty`
-- 🧰 Tools & Concepts: `Linux` · `Git` · `HTTP` · `Networking` · `CTFs`
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/flooooydy" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-         alt="flooooydy" 
-         height="30" 
-         width="40" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://hackerone.com/phloydy" target="_blank">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
 </p>
+
+---
+
+### whoami
+
+CS undergraduate focused on web application security. Primarily doing CTFs, with interest in vulnerability research and bug bounty.
+
+---
+
+### 🛠️ Stack
+
+**Languages**
+```
+Python · Bash
+```
+
+**OS**
+```
+Arch Linux
+```
+
+---
+
+### 📚 Currently studying
+
+- Web Exploitation
+
+---
+
+### 📬 Contact
+
+[Twitter/X](https://twitter.com/flooooydy)
