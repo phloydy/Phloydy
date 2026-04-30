@@ -1,4 +1,4 @@
-<h1 align="center">Paulo Henrique · phloydy</h1>
+<h1 align="center">Paulo Henrique · floydy/phloydy</h1>
 <p align="center">
   Web Pentester · CTF Player · CS Student · 🇧🇷
 </p>
